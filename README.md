@@ -31,3 +31,9 @@ git config --global credential.helper store
 git config credential.helper 'store --file=/full/path/to/.git_credentials'
 
 ````
+
+## location `cd /path/work/.git` and run
+````
+git config credential.helper store
+
+````
