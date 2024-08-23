@@ -1,4 +1,4 @@
-# lern-git
+# lerning git
 lerning git command
 
 ## EXCLUDE NOT COMMIT ADD  `.gitignore`
